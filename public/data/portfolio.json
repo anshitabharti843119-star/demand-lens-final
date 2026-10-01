@@ -1,0 +1,2252 @@
+[
+  {
+    "series_id": "S1_I1",
+    "store": 1,
+    "item": 1,
+    "model_mape": 19.08,
+    "baseline_mape": 24.08,
+    "improvement_pct": 20.76,
+    "winner": "model"
+  },
+  {
+    "series_id": "S1_I10",
+    "store": 1,
+    "item": 10,
+    "model_mape": 6.27,
+    "baseline_mape": 13.53,
+    "improvement_pct": 53.66,
+    "winner": "model"
+  },
+  {
+    "series_id": "S1_I11",
+    "store": 1,
+    "item": 11,
+    "model_mape": 5.38,
+    "baseline_mape": 12.77,
+    "improvement_pct": 57.87,
+    "winner": "model"
+  },
+  {
+    "series_id": "S1_I12",
+    "store": 1,
+    "item": 12,
+    "model_mape": 6.25,
+    "baseline_mape": 13.05,
+    "improvement_pct": 52.11,
+    "winner": "model"
+  },
+  {
+    "series_id": "S1_I13",
+    "store": 1,
+    "item": 13,
+    "model_mape": 5.23,
+    "baseline_mape": 13.94,
+    "improvement_pct": 62.48,
+    "winner": "model"
+  },
+  {
+    "series_id": "S1_I14",
+    "store": 1,
+    "item": 14,
+    "model_mape": 7.4,
+    "baseline_mape": 16.12,
+    "improvement_pct": 54.09,
+    "winner": "model"
+  },
+  {
+    "series_id": "S1_I15",
+    "store": 1,
+    "item": 15,
+    "model_mape": 6.21,
+    "baseline_mape": 14.87,
+    "improvement_pct": 58.24,
+    "winner": "model"
+  },
+  {
+    "series_id": "S1_I16",
+    "store": 1,
+    "item": 16,
+    "model_mape": 6.44,
+    "baseline_mape": 17.1,
+    "improvement_pct": 62.34,
+    "winner": "model"
+  },
+  {
+    "series_id": "S1_I17",
+    "store": 1,
+    "item": 17,
+    "model_mape": 5.56,
+    "baseline_mape": 15.05,
+    "improvement_pct": 63.06,
+    "winner": "model"
+  },
+  {
+    "series_id": "S1_I18",
+    "store": 1,
+    "item": 18,
+    "model_mape": 4.65,
+    "baseline_mape": 15.64,
+    "improvement_pct": 70.27,
+    "winner": "model"
+  },
+  {
+    "series_id": "S1_I19",
+    "store": 1,
+    "item": 19,
+    "model_mape": 6.12,
+    "baseline_mape": 17.25,
+    "improvement_pct": 64.52,
+    "winner": "model"
+  },
+  {
+    "series_id": "S1_I2",
+    "store": 1,
+    "item": 2,
+    "model_mape": 10.6,
+    "baseline_mape": 15.08,
+    "improvement_pct": 29.71,
+    "winner": "model"
+  },
+  {
+    "series_id": "S1_I20",
+    "store": 1,
+    "item": 20,
+    "model_mape": 5.65,
+    "baseline_mape": 17.3,
+    "improvement_pct": 67.34,
+    "winner": "model"
+  },
+  {
+    "series_id": "S1_I21",
+    "store": 1,
+    "item": 21,
+    "model_mape": 3.7,
+    "baseline_mape": 17.45,
+    "improvement_pct": 78.8,
+    "winner": "model"
+  },
+  {
+    "series_id": "S1_I22",
+    "store": 1,
+    "item": 22,
+    "model_mape": 4.19,
+    "baseline_mape": 18.92,
+    "improvement_pct": 77.85,
+    "winner": "model"
+  },
+  {
+    "series_id": "S1_I23",
+    "store": 1,
+    "item": 23,
+    "model_mape": 4.95,
+    "baseline_mape": 19.14,
+    "improvement_pct": 74.14,
+    "winner": "model"
+  },
+  {
+    "series_id": "S1_I24",
+    "store": 1,
+    "item": 24,
+    "model_mape": 4.03,
+    "baseline_mape": 19.89,
+    "improvement_pct": 79.74,
+    "winner": "model"
+  },
+  {
+    "series_id": "S1_I25",
+    "store": 1,
+    "item": 25,
+    "model_mape": 3.41,
+    "baseline_mape": 18.19,
+    "improvement_pct": 81.25,
+    "winner": "model"
+  },
+  {
+    "series_id": "S1_I26",
+    "store": 1,
+    "item": 26,
+    "model_mape": 4.33,
+    "baseline_mape": 20.17,
+    "improvement_pct": 78.53,
+    "winner": "model"
+  },
+  {
+    "series_id": "S1_I27",
+    "store": 1,
+    "item": 27,
+    "model_mape": 3.89,
+    "baseline_mape": 21.63,
+    "improvement_pct": 82.02,
+    "winner": "model"
+  },
+  {
+    "series_id": "S1_I28",
+    "store": 1,
+    "item": 28,
+    "model_mape": 4.66,
+    "baseline_mape": 22.12,
+    "improvement_pct": 78.93,
+    "winner": "model"
+  },
+  {
+    "series_id": "S1_I29",
+    "store": 1,
+    "item": 29,
+    "model_mape": 3.82,
+    "baseline_mape": 20.28,
+    "improvement_pct": 81.16,
+    "winner": "model"
+  },
+  {
+    "series_id": "S1_I3",
+    "store": 1,
+    "item": 3,
+    "model_mape": 14.3,
+    "baseline_mape": 20.86,
+    "improvement_pct": 31.45,
+    "winner": "model"
+  },
+  {
+    "series_id": "S1_I30",
+    "store": 1,
+    "item": 30,
+    "model_mape": 4.13,
+    "baseline_mape": 21.52,
+    "improvement_pct": 80.81,
+    "winner": "model"
+  },
+  {
+    "series_id": "S1_I31",
+    "store": 1,
+    "item": 31,
+    "model_mape": 4.92,
+    "baseline_mape": 24.23,
+    "improvement_pct": 79.69,
+    "winner": "model"
+  },
+  {
+    "series_id": "S1_I32",
+    "store": 1,
+    "item": 32,
+    "model_mape": 5.48,
+    "baseline_mape": 21.52,
+    "improvement_pct": 74.54,
+    "winner": "model"
+  },
+  {
+    "series_id": "S1_I33",
+    "store": 1,
+    "item": 33,
+    "model_mape": 4.34,
+    "baseline_mape": 22.82,
+    "improvement_pct": 80.98,
+    "winner": "model"
+  },
+  {
+    "series_id": "S1_I34",
+    "store": 1,
+    "item": 34,
+    "model_mape": 5.07,
+    "baseline_mape": 24.88,
+    "improvement_pct": 79.62,
+    "winner": "model"
+  },
+  {
+    "series_id": "S1_I35",
+    "store": 1,
+    "item": 35,
+    "model_mape": 4.24,
+    "baseline_mape": 20.18,
+    "improvement_pct": 78.99,
+    "winner": "model"
+  },
+  {
+    "series_id": "S1_I36",
+    "store": 1,
+    "item": 36,
+    "model_mape": 4.7,
+    "baseline_mape": 18.23,
+    "improvement_pct": 74.22,
+    "winner": "model"
+  },
+  {
+    "series_id": "S1_I37",
+    "store": 1,
+    "item": 37,
+    "model_mape": 4.53,
+    "baseline_mape": 19.79,
+    "improvement_pct": 77.11,
+    "winner": "model"
+  },
+  {
+    "series_id": "S1_I38",
+    "store": 1,
+    "item": 38,
+    "model_mape": 5.67,
+    "baseline_mape": 19.84,
+    "improvement_pct": 71.42,
+    "winner": "model"
+  },
+  {
+    "series_id": "S1_I39",
+    "store": 1,
+    "item": 39,
+    "model_mape": 4.67,
+    "baseline_mape": 19.28,
+    "improvement_pct": 75.78,
+    "winner": "model"
+  },
+  {
+    "series_id": "S1_I4",
+    "store": 1,
+    "item": 4,
+    "model_mape": 11.81,
+    "baseline_mape": 18.76,
+    "improvement_pct": 37.05,
+    "winner": "model"
+  },
+  {
+    "series_id": "S1_I40",
+    "store": 1,
+    "item": 40,
+    "model_mape": 4.29,
+    "baseline_mape": 17.19,
+    "improvement_pct": 75.04,
+    "winner": "model"
+  },
+  {
+    "series_id": "S1_I41",
+    "store": 1,
+    "item": 41,
+    "model_mape": 5.49,
+    "baseline_mape": 16.37,
+    "improvement_pct": 66.46,
+    "winner": "model"
+  },
+  {
+    "series_id": "S1_I42",
+    "store": 1,
+    "item": 42,
+    "model_mape": 4.11,
+    "baseline_mape": 15.83,
+    "improvement_pct": 74.04,
+    "winner": "model"
+  },
+  {
+    "series_id": "S1_I43",
+    "store": 1,
+    "item": 43,
+    "model_mape": 4.71,
+    "baseline_mape": 14.4,
+    "improvement_pct": 67.29,
+    "winner": "model"
+  },
+  {
+    "series_id": "S1_I44",
+    "store": 1,
+    "item": 44,
+    "model_mape": 3.3,
+    "baseline_mape": 13.54,
+    "improvement_pct": 75.63,
+    "winner": "model"
+  },
+  {
+    "series_id": "S1_I45",
+    "store": 1,
+    "item": 45,
+    "model_mape": 4.19,
+    "baseline_mape": 13.08,
+    "improvement_pct": 67.97,
+    "winner": "model"
+  },
+  {
+    "series_id": "S1_I46",
+    "store": 1,
+    "item": 46,
+    "model_mape": 3.43,
+    "baseline_mape": 12.3,
+    "improvement_pct": 72.11,
+    "winner": "model"
+  },
+  {
+    "series_id": "S1_I47",
+    "store": 1,
+    "item": 47,
+    "model_mape": 3.96,
+    "baseline_mape": 12.41,
+    "improvement_pct": 68.09,
+    "winner": "model"
+  },
+  {
+    "series_id": "S1_I48",
+    "store": 1,
+    "item": 48,
+    "model_mape": 3.05,
+    "baseline_mape": 11.55,
+    "improvement_pct": 73.59,
+    "winner": "model"
+  },
+  {
+    "series_id": "S1_I49",
+    "store": 1,
+    "item": 49,
+    "model_mape": 2.96,
+    "baseline_mape": 12.1,
+    "improvement_pct": 75.54,
+    "winner": "model"
+  },
+  {
+    "series_id": "S1_I5",
+    "store": 1,
+    "item": 5,
+    "model_mape": 8.7,
+    "baseline_mape": 16.91,
+    "improvement_pct": 48.55,
+    "winner": "model"
+  },
+  {
+    "series_id": "S1_I50",
+    "store": 1,
+    "item": 50,
+    "model_mape": 2.52,
+    "baseline_mape": 11.85,
+    "improvement_pct": 78.73,
+    "winner": "model"
+  },
+  {
+    "series_id": "S1_I6",
+    "store": 1,
+    "item": 6,
+    "model_mape": 9.28,
+    "baseline_mape": 16.46,
+    "improvement_pct": 43.62,
+    "winner": "model"
+  },
+  {
+    "series_id": "S1_I7",
+    "store": 1,
+    "item": 7,
+    "model_mape": 6.3,
+    "baseline_mape": 13.83,
+    "improvement_pct": 54.45,
+    "winner": "model"
+  },
+  {
+    "series_id": "S1_I8",
+    "store": 1,
+    "item": 8,
+    "model_mape": 8.47,
+    "baseline_mape": 15.83,
+    "improvement_pct": 46.49,
+    "winner": "model"
+  },
+  {
+    "series_id": "S1_I9",
+    "store": 1,
+    "item": 9,
+    "model_mape": 4.98,
+    "baseline_mape": 12.83,
+    "improvement_pct": 61.18,
+    "winner": "model"
+  },
+  {
+    "series_id": "S2_I1",
+    "store": 2,
+    "item": 1,
+    "model_mape": 9.29,
+    "baseline_mape": 16.29,
+    "improvement_pct": 42.97,
+    "winner": "model"
+  },
+  {
+    "series_id": "S2_I10",
+    "store": 2,
+    "item": 10,
+    "model_mape": 4.5,
+    "baseline_mape": 12.42,
+    "improvement_pct": 63.77,
+    "winner": "model"
+  },
+  {
+    "series_id": "S2_I11",
+    "store": 2,
+    "item": 11,
+    "model_mape": 4.71,
+    "baseline_mape": 12.64,
+    "improvement_pct": 62.74,
+    "winner": "model"
+  },
+  {
+    "series_id": "S2_I12",
+    "store": 2,
+    "item": 12,
+    "model_mape": 5.11,
+    "baseline_mape": 12.59,
+    "improvement_pct": 59.41,
+    "winner": "model"
+  },
+  {
+    "series_id": "S2_I13",
+    "store": 2,
+    "item": 13,
+    "model_mape": 5.86,
+    "baseline_mape": 14.85,
+    "improvement_pct": 60.54,
+    "winner": "model"
+  },
+  {
+    "series_id": "S2_I14",
+    "store": 2,
+    "item": 14,
+    "model_mape": 5.45,
+    "baseline_mape": 14.44,
+    "improvement_pct": 62.26,
+    "winner": "model"
+  },
+  {
+    "series_id": "S2_I15",
+    "store": 2,
+    "item": 15,
+    "model_mape": 5.11,
+    "baseline_mape": 13.49,
+    "improvement_pct": 62.12,
+    "winner": "model"
+  },
+  {
+    "series_id": "S2_I16",
+    "store": 2,
+    "item": 16,
+    "model_mape": 5.11,
+    "baseline_mape": 15.77,
+    "improvement_pct": 67.6,
+    "winner": "model"
+  },
+  {
+    "series_id": "S2_I17",
+    "store": 2,
+    "item": 17,
+    "model_mape": 4.9,
+    "baseline_mape": 16.01,
+    "improvement_pct": 69.39,
+    "winner": "model"
+  },
+  {
+    "series_id": "S2_I18",
+    "store": 2,
+    "item": 18,
+    "model_mape": 4.76,
+    "baseline_mape": 14.67,
+    "improvement_pct": 67.55,
+    "winner": "model"
+  },
+  {
+    "series_id": "S2_I19",
+    "store": 2,
+    "item": 19,
+    "model_mape": 6.19,
+    "baseline_mape": 17.93,
+    "improvement_pct": 65.48,
+    "winner": "model"
+  },
+  {
+    "series_id": "S2_I2",
+    "store": 2,
+    "item": 2,
+    "model_mape": 9.26,
+    "baseline_mape": 16.4,
+    "improvement_pct": 43.54,
+    "winner": "model"
+  },
+  {
+    "series_id": "S2_I20",
+    "store": 2,
+    "item": 20,
+    "model_mape": 4.59,
+    "baseline_mape": 18.09,
+    "improvement_pct": 74.63,
+    "winner": "model"
+  },
+  {
+    "series_id": "S2_I21",
+    "store": 2,
+    "item": 21,
+    "model_mape": 5.53,
+    "baseline_mape": 20.33,
+    "improvement_pct": 72.8,
+    "winner": "model"
+  },
+  {
+    "series_id": "S2_I22",
+    "store": 2,
+    "item": 22,
+    "model_mape": 4.66,
+    "baseline_mape": 19.15,
+    "improvement_pct": 75.67,
+    "winner": "model"
+  },
+  {
+    "series_id": "S2_I23",
+    "store": 2,
+    "item": 23,
+    "model_mape": 4.76,
+    "baseline_mape": 20.54,
+    "improvement_pct": 76.83,
+    "winner": "model"
+  },
+  {
+    "series_id": "S2_I24",
+    "store": 2,
+    "item": 24,
+    "model_mape": 3.79,
+    "baseline_mape": 21.23,
+    "improvement_pct": 82.15,
+    "winner": "model"
+  },
+  {
+    "series_id": "S2_I25",
+    "store": 2,
+    "item": 25,
+    "model_mape": 3.85,
+    "baseline_mape": 21.24,
+    "improvement_pct": 81.87,
+    "winner": "model"
+  },
+  {
+    "series_id": "S2_I26",
+    "store": 2,
+    "item": 26,
+    "model_mape": 4.65,
+    "baseline_mape": 21.03,
+    "improvement_pct": 77.89,
+    "winner": "model"
+  },
+  {
+    "series_id": "S2_I27",
+    "store": 2,
+    "item": 27,
+    "model_mape": 4.05,
+    "baseline_mape": 22.05,
+    "improvement_pct": 81.63,
+    "winner": "model"
+  },
+  {
+    "series_id": "S2_I28",
+    "store": 2,
+    "item": 28,
+    "model_mape": 3.84,
+    "baseline_mape": 22.05,
+    "improvement_pct": 82.59,
+    "winner": "model"
+  },
+  {
+    "series_id": "S2_I29",
+    "store": 2,
+    "item": 29,
+    "model_mape": 4.49,
+    "baseline_mape": 22.06,
+    "improvement_pct": 79.65,
+    "winner": "model"
+  },
+  {
+    "series_id": "S2_I3",
+    "store": 2,
+    "item": 3,
+    "model_mape": 8.27,
+    "baseline_mape": 15.37,
+    "improvement_pct": 46.19,
+    "winner": "model"
+  },
+  {
+    "series_id": "S2_I30",
+    "store": 2,
+    "item": 30,
+    "model_mape": 2.85,
+    "baseline_mape": 21.02,
+    "improvement_pct": 86.44,
+    "winner": "model"
+  },
+  {
+    "series_id": "S2_I31",
+    "store": 2,
+    "item": 31,
+    "model_mape": 3.65,
+    "baseline_mape": 23.18,
+    "improvement_pct": 84.25,
+    "winner": "model"
+  },
+  {
+    "series_id": "S2_I32",
+    "store": 2,
+    "item": 32,
+    "model_mape": 3.33,
+    "baseline_mape": 22.58,
+    "improvement_pct": 85.25,
+    "winner": "model"
+  },
+  {
+    "series_id": "S2_I33",
+    "store": 2,
+    "item": 33,
+    "model_mape": 4.33,
+    "baseline_mape": 22.05,
+    "improvement_pct": 80.36,
+    "winner": "model"
+  },
+  {
+    "series_id": "S2_I34",
+    "store": 2,
+    "item": 34,
+    "model_mape": 3.28,
+    "baseline_mape": 21.22,
+    "improvement_pct": 84.54,
+    "winner": "model"
+  },
+  {
+    "series_id": "S2_I35",
+    "store": 2,
+    "item": 35,
+    "model_mape": 4.65,
+    "baseline_mape": 21.63,
+    "improvement_pct": 78.5,
+    "winner": "model"
+  },
+  {
+    "series_id": "S2_I36",
+    "store": 2,
+    "item": 36,
+    "model_mape": 3.67,
+    "baseline_mape": 19.41,
+    "improvement_pct": 81.09,
+    "winner": "model"
+  },
+  {
+    "series_id": "S2_I37",
+    "store": 2,
+    "item": 37,
+    "model_mape": 4.96,
+    "baseline_mape": 20.47,
+    "improvement_pct": 75.77,
+    "winner": "model"
+  },
+  {
+    "series_id": "S2_I38",
+    "store": 2,
+    "item": 38,
+    "model_mape": 5.47,
+    "baseline_mape": 20.17,
+    "improvement_pct": 72.88,
+    "winner": "model"
+  },
+  {
+    "series_id": "S2_I39",
+    "store": 2,
+    "item": 39,
+    "model_mape": 4.96,
+    "baseline_mape": 16.76,
+    "improvement_pct": 70.41,
+    "winner": "model"
+  },
+  {
+    "series_id": "S2_I4",
+    "store": 2,
+    "item": 4,
+    "model_mape": 9.16,
+    "baseline_mape": 15.5,
+    "improvement_pct": 40.9,
+    "winner": "model"
+  },
+  {
+    "series_id": "S2_I40",
+    "store": 2,
+    "item": 40,
+    "model_mape": 4.84,
+    "baseline_mape": 15.41,
+    "improvement_pct": 68.59,
+    "winner": "model"
+  },
+  {
+    "series_id": "S2_I41",
+    "store": 2,
+    "item": 41,
+    "model_mape": 4.62,
+    "baseline_mape": 16.69,
+    "improvement_pct": 72.32,
+    "winner": "model"
+  },
+  {
+    "series_id": "S2_I42",
+    "store": 2,
+    "item": 42,
+    "model_mape": 4.09,
+    "baseline_mape": 16.88,
+    "improvement_pct": 75.77,
+    "winner": "model"
+  },
+  {
+    "series_id": "S2_I43",
+    "store": 2,
+    "item": 43,
+    "model_mape": 3.59,
+    "baseline_mape": 13.45,
+    "improvement_pct": 73.31,
+    "winner": "model"
+  },
+  {
+    "series_id": "S2_I44",
+    "store": 2,
+    "item": 44,
+    "model_mape": 3.39,
+    "baseline_mape": 12.52,
+    "improvement_pct": 72.92,
+    "winner": "model"
+  },
+  {
+    "series_id": "S2_I45",
+    "store": 2,
+    "item": 45,
+    "model_mape": 4.1,
+    "baseline_mape": 14.17,
+    "improvement_pct": 71.07,
+    "winner": "model"
+  },
+  {
+    "series_id": "S2_I46",
+    "store": 2,
+    "item": 46,
+    "model_mape": 2.97,
+    "baseline_mape": 12.48,
+    "improvement_pct": 76.2,
+    "winner": "model"
+  },
+  {
+    "series_id": "S2_I47",
+    "store": 2,
+    "item": 47,
+    "model_mape": 3.06,
+    "baseline_mape": 11.2,
+    "improvement_pct": 72.68,
+    "winner": "model"
+  },
+  {
+    "series_id": "S2_I48",
+    "store": 2,
+    "item": 48,
+    "model_mape": 3.26,
+    "baseline_mape": 12.34,
+    "improvement_pct": 73.58,
+    "winner": "model"
+  },
+  {
+    "series_id": "S2_I49",
+    "store": 2,
+    "item": 49,
+    "model_mape": 3.12,
+    "baseline_mape": 11.95,
+    "improvement_pct": 73.89,
+    "winner": "model"
+  },
+  {
+    "series_id": "S2_I5",
+    "store": 2,
+    "item": 5,
+    "model_mape": 7.68,
+    "baseline_mape": 14.23,
+    "improvement_pct": 46.03,
+    "winner": "model"
+  },
+  {
+    "series_id": "S2_I50",
+    "store": 2,
+    "item": 50,
+    "model_mape": 2.4,
+    "baseline_mape": 11.58,
+    "improvement_pct": 79.27,
+    "winner": "model"
+  },
+  {
+    "series_id": "S2_I6",
+    "store": 2,
+    "item": 6,
+    "model_mape": 5.52,
+    "baseline_mape": 13.63,
+    "improvement_pct": 59.5,
+    "winner": "model"
+  },
+  {
+    "series_id": "S2_I7",
+    "store": 2,
+    "item": 7,
+    "model_mape": 6.13,
+    "baseline_mape": 13.18,
+    "improvement_pct": 53.49,
+    "winner": "model"
+  },
+  {
+    "series_id": "S2_I8",
+    "store": 2,
+    "item": 8,
+    "model_mape": 5.75,
+    "baseline_mape": 13.42,
+    "improvement_pct": 57.15,
+    "winner": "model"
+  },
+  {
+    "series_id": "S2_I9",
+    "store": 2,
+    "item": 9,
+    "model_mape": 5.88,
+    "baseline_mape": 12.55,
+    "improvement_pct": 53.15,
+    "winner": "model"
+  },
+  {
+    "series_id": "S3_I1",
+    "store": 3,
+    "item": 1,
+    "model_mape": 6.97,
+    "baseline_mape": 13.98,
+    "improvement_pct": 50.14,
+    "winner": "model"
+  },
+  {
+    "series_id": "S3_I10",
+    "store": 3,
+    "item": 10,
+    "model_mape": 5.5,
+    "baseline_mape": 12.76,
+    "improvement_pct": 56.9,
+    "winner": "model"
+  },
+  {
+    "series_id": "S3_I11",
+    "store": 3,
+    "item": 11,
+    "model_mape": 6.0,
+    "baseline_mape": 14.3,
+    "improvement_pct": 58.04,
+    "winner": "model"
+  },
+  {
+    "series_id": "S3_I12",
+    "store": 3,
+    "item": 12,
+    "model_mape": 5.97,
+    "baseline_mape": 13.66,
+    "improvement_pct": 56.3,
+    "winner": "model"
+  },
+  {
+    "series_id": "S3_I13",
+    "store": 3,
+    "item": 13,
+    "model_mape": 6.34,
+    "baseline_mape": 14.14,
+    "improvement_pct": 55.16,
+    "winner": "model"
+  },
+  {
+    "series_id": "S3_I14",
+    "store": 3,
+    "item": 14,
+    "model_mape": 6.34,
+    "baseline_mape": 15.52,
+    "improvement_pct": 59.15,
+    "winner": "model"
+  },
+  {
+    "series_id": "S3_I15",
+    "store": 3,
+    "item": 15,
+    "model_mape": 5.45,
+    "baseline_mape": 14.74,
+    "improvement_pct": 63.03,
+    "winner": "model"
+  },
+  {
+    "series_id": "S3_I16",
+    "store": 3,
+    "item": 16,
+    "model_mape": 3.94,
+    "baseline_mape": 15.22,
+    "improvement_pct": 74.11,
+    "winner": "model"
+  },
+  {
+    "series_id": "S3_I17",
+    "store": 3,
+    "item": 17,
+    "model_mape": 4.84,
+    "baseline_mape": 16.31,
+    "improvement_pct": 70.32,
+    "winner": "model"
+  },
+  {
+    "series_id": "S3_I18",
+    "store": 3,
+    "item": 18,
+    "model_mape": 5.17,
+    "baseline_mape": 15.79,
+    "improvement_pct": 67.26,
+    "winner": "model"
+  },
+  {
+    "series_id": "S3_I19",
+    "store": 3,
+    "item": 19,
+    "model_mape": 4.59,
+    "baseline_mape": 16.7,
+    "improvement_pct": 72.51,
+    "winner": "model"
+  },
+  {
+    "series_id": "S3_I2",
+    "store": 3,
+    "item": 2,
+    "model_mape": 6.47,
+    "baseline_mape": 14.45,
+    "improvement_pct": 55.22,
+    "winner": "model"
+  },
+  {
+    "series_id": "S3_I20",
+    "store": 3,
+    "item": 20,
+    "model_mape": 3.66,
+    "baseline_mape": 16.98,
+    "improvement_pct": 78.45,
+    "winner": "model"
+  },
+  {
+    "series_id": "S3_I21",
+    "store": 3,
+    "item": 21,
+    "model_mape": 4.27,
+    "baseline_mape": 18.86,
+    "improvement_pct": 77.36,
+    "winner": "model"
+  },
+  {
+    "series_id": "S3_I22",
+    "store": 3,
+    "item": 22,
+    "model_mape": 3.58,
+    "baseline_mape": 19.59,
+    "improvement_pct": 81.73,
+    "winner": "model"
+  },
+  {
+    "series_id": "S3_I23",
+    "store": 3,
+    "item": 23,
+    "model_mape": 3.5,
+    "baseline_mape": 19.13,
+    "improvement_pct": 81.7,
+    "winner": "model"
+  },
+  {
+    "series_id": "S3_I24",
+    "store": 3,
+    "item": 24,
+    "model_mape": 2.96,
+    "baseline_mape": 19.28,
+    "improvement_pct": 84.65,
+    "winner": "model"
+  },
+  {
+    "series_id": "S3_I25",
+    "store": 3,
+    "item": 25,
+    "model_mape": 4.37,
+    "baseline_mape": 20.54,
+    "improvement_pct": 78.72,
+    "winner": "model"
+  },
+  {
+    "series_id": "S3_I26",
+    "store": 3,
+    "item": 26,
+    "model_mape": 4.11,
+    "baseline_mape": 21.78,
+    "improvement_pct": 81.13,
+    "winner": "model"
+  },
+  {
+    "series_id": "S3_I27",
+    "store": 3,
+    "item": 27,
+    "model_mape": 3.34,
+    "baseline_mape": 21.62,
+    "improvement_pct": 84.55,
+    "winner": "model"
+  },
+  {
+    "series_id": "S3_I28",
+    "store": 3,
+    "item": 28,
+    "model_mape": 3.93,
+    "baseline_mape": 22.53,
+    "improvement_pct": 82.56,
+    "winner": "model"
+  },
+  {
+    "series_id": "S3_I29",
+    "store": 3,
+    "item": 29,
+    "model_mape": 3.87,
+    "baseline_mape": 20.34,
+    "improvement_pct": 80.97,
+    "winner": "model"
+  },
+  {
+    "series_id": "S3_I3",
+    "store": 3,
+    "item": 3,
+    "model_mape": 8.58,
+    "baseline_mape": 15.41,
+    "improvement_pct": 44.32,
+    "winner": "model"
+  },
+  {
+    "series_id": "S3_I30",
+    "store": 3,
+    "item": 30,
+    "model_mape": 2.78,
+    "baseline_mape": 22.65,
+    "improvement_pct": 87.73,
+    "winner": "model"
+  },
+  {
+    "series_id": "S3_I31",
+    "store": 3,
+    "item": 31,
+    "model_mape": 3.7,
+    "baseline_mape": 20.34,
+    "improvement_pct": 81.81,
+    "winner": "model"
+  },
+  {
+    "series_id": "S3_I32",
+    "store": 3,
+    "item": 32,
+    "model_mape": 4.25,
+    "baseline_mape": 22.72,
+    "improvement_pct": 81.29,
+    "winner": "model"
+  },
+  {
+    "series_id": "S3_I33",
+    "store": 3,
+    "item": 33,
+    "model_mape": 4.09,
+    "baseline_mape": 22.68,
+    "improvement_pct": 81.97,
+    "winner": "model"
+  },
+  {
+    "series_id": "S3_I34",
+    "store": 3,
+    "item": 34,
+    "model_mape": 4.2,
+    "baseline_mape": 21.1,
+    "improvement_pct": 80.09,
+    "winner": "model"
+  },
+  {
+    "series_id": "S3_I35",
+    "store": 3,
+    "item": 35,
+    "model_mape": 4.2,
+    "baseline_mape": 22.52,
+    "improvement_pct": 81.35,
+    "winner": "model"
+  },
+  {
+    "series_id": "S3_I36",
+    "store": 3,
+    "item": 36,
+    "model_mape": 4.8,
+    "baseline_mape": 20.58,
+    "improvement_pct": 76.68,
+    "winner": "model"
+  },
+  {
+    "series_id": "S3_I37",
+    "store": 3,
+    "item": 37,
+    "model_mape": 3.9,
+    "baseline_mape": 20.14,
+    "improvement_pct": 80.64,
+    "winner": "model"
+  },
+  {
+    "series_id": "S3_I38",
+    "store": 3,
+    "item": 38,
+    "model_mape": 4.45,
+    "baseline_mape": 18.39,
+    "improvement_pct": 75.8,
+    "winner": "model"
+  },
+  {
+    "series_id": "S3_I39",
+    "store": 3,
+    "item": 39,
+    "model_mape": 4.42,
+    "baseline_mape": 19.59,
+    "improvement_pct": 77.44,
+    "winner": "model"
+  },
+  {
+    "series_id": "S3_I4",
+    "store": 3,
+    "item": 4,
+    "model_mape": 6.28,
+    "baseline_mape": 15.25,
+    "improvement_pct": 58.82,
+    "winner": "model"
+  },
+  {
+    "series_id": "S3_I40",
+    "store": 3,
+    "item": 40,
+    "model_mape": 4.24,
+    "baseline_mape": 18.27,
+    "improvement_pct": 76.79,
+    "winner": "model"
+  },
+  {
+    "series_id": "S3_I41",
+    "store": 3,
+    "item": 41,
+    "model_mape": 4.4,
+    "baseline_mape": 15.94,
+    "improvement_pct": 72.4,
+    "winner": "model"
+  },
+  {
+    "series_id": "S3_I42",
+    "store": 3,
+    "item": 42,
+    "model_mape": 5.23,
+    "baseline_mape": 13.86,
+    "improvement_pct": 62.27,
+    "winner": "model"
+  },
+  {
+    "series_id": "S3_I43",
+    "store": 3,
+    "item": 43,
+    "model_mape": 3.33,
+    "baseline_mape": 13.5,
+    "improvement_pct": 75.33,
+    "winner": "model"
+  },
+  {
+    "series_id": "S3_I44",
+    "store": 3,
+    "item": 44,
+    "model_mape": 3.87,
+    "baseline_mape": 14.79,
+    "improvement_pct": 73.83,
+    "winner": "model"
+  },
+  {
+    "series_id": "S3_I45",
+    "store": 3,
+    "item": 45,
+    "model_mape": 3.6,
+    "baseline_mape": 13.23,
+    "improvement_pct": 72.79,
+    "winner": "model"
+  },
+  {
+    "series_id": "S3_I46",
+    "store": 3,
+    "item": 46,
+    "model_mape": 3.2,
+    "baseline_mape": 12.36,
+    "improvement_pct": 74.11,
+    "winner": "model"
+  },
+  {
+    "series_id": "S3_I47",
+    "store": 3,
+    "item": 47,
+    "model_mape": 3.16,
+    "baseline_mape": 11.3,
+    "improvement_pct": 72.04,
+    "winner": "model"
+  },
+  {
+    "series_id": "S3_I48",
+    "store": 3,
+    "item": 48,
+    "model_mape": 2.56,
+    "baseline_mape": 11.45,
+    "improvement_pct": 77.64,
+    "winner": "model"
+  },
+  {
+    "series_id": "S3_I49",
+    "store": 3,
+    "item": 49,
+    "model_mape": 2.74,
+    "baseline_mape": 11.37,
+    "improvement_pct": 75.9,
+    "winner": "model"
+  },
+  {
+    "series_id": "S3_I5",
+    "store": 3,
+    "item": 5,
+    "model_mape": 7.66,
+    "baseline_mape": 14.95,
+    "improvement_pct": 48.76,
+    "winner": "model"
+  },
+  {
+    "series_id": "S3_I50",
+    "store": 3,
+    "item": 50,
+    "model_mape": 1.7,
+    "baseline_mape": 11.12,
+    "improvement_pct": 84.71,
+    "winner": "model"
+  },
+  {
+    "series_id": "S3_I6",
+    "store": 3,
+    "item": 6,
+    "model_mape": 5.81,
+    "baseline_mape": 13.76,
+    "improvement_pct": 57.78,
+    "winner": "model"
+  },
+  {
+    "series_id": "S3_I7",
+    "store": 3,
+    "item": 7,
+    "model_mape": 5.9,
+    "baseline_mape": 13.49,
+    "improvement_pct": 56.26,
+    "winner": "model"
+  },
+  {
+    "series_id": "S3_I8",
+    "store": 3,
+    "item": 8,
+    "model_mape": 5.72,
+    "baseline_mape": 13.57,
+    "improvement_pct": 57.85,
+    "winner": "model"
+  },
+  {
+    "series_id": "S3_I9",
+    "store": 3,
+    "item": 9,
+    "model_mape": 6.03,
+    "baseline_mape": 13.11,
+    "improvement_pct": 54.0,
+    "winner": "model"
+  },
+  {
+    "series_id": "S4_I1",
+    "store": 4,
+    "item": 1,
+    "model_mape": 7.17,
+    "baseline_mape": 15.04,
+    "improvement_pct": 52.33,
+    "winner": "model"
+  },
+  {
+    "series_id": "S4_I10",
+    "store": 4,
+    "item": 10,
+    "model_mape": 4.69,
+    "baseline_mape": 11.68,
+    "improvement_pct": 59.85,
+    "winner": "model"
+  },
+  {
+    "series_id": "S4_I11",
+    "store": 4,
+    "item": 11,
+    "model_mape": 4.4,
+    "baseline_mape": 12.94,
+    "improvement_pct": 66.0,
+    "winner": "model"
+  },
+  {
+    "series_id": "S4_I12",
+    "store": 4,
+    "item": 12,
+    "model_mape": 4.28,
+    "baseline_mape": 12.56,
+    "improvement_pct": 65.92,
+    "winner": "model"
+  },
+  {
+    "series_id": "S4_I13",
+    "store": 4,
+    "item": 13,
+    "model_mape": 5.4,
+    "baseline_mape": 13.86,
+    "improvement_pct": 61.04,
+    "winner": "model"
+  },
+  {
+    "series_id": "S4_I14",
+    "store": 4,
+    "item": 14,
+    "model_mape": 4.23,
+    "baseline_mape": 12.86,
+    "improvement_pct": 67.11,
+    "winner": "model"
+  },
+  {
+    "series_id": "S4_I15",
+    "store": 4,
+    "item": 15,
+    "model_mape": 4.18,
+    "baseline_mape": 14.68,
+    "improvement_pct": 71.53,
+    "winner": "model"
+  },
+  {
+    "series_id": "S4_I16",
+    "store": 4,
+    "item": 16,
+    "model_mape": 5.93,
+    "baseline_mape": 14.66,
+    "improvement_pct": 59.55,
+    "winner": "model"
+  },
+  {
+    "series_id": "S4_I17",
+    "store": 4,
+    "item": 17,
+    "model_mape": 4.19,
+    "baseline_mape": 16.36,
+    "improvement_pct": 74.39,
+    "winner": "model"
+  },
+  {
+    "series_id": "S4_I18",
+    "store": 4,
+    "item": 18,
+    "model_mape": 5.33,
+    "baseline_mape": 17.94,
+    "improvement_pct": 70.29,
+    "winner": "model"
+  },
+  {
+    "series_id": "S4_I19",
+    "store": 4,
+    "item": 19,
+    "model_mape": 4.11,
+    "baseline_mape": 16.99,
+    "improvement_pct": 75.81,
+    "winner": "model"
+  },
+  {
+    "series_id": "S4_I2",
+    "store": 4,
+    "item": 2,
+    "model_mape": 5.32,
+    "baseline_mape": 13.13,
+    "improvement_pct": 59.48,
+    "winner": "model"
+  },
+  {
+    "series_id": "S4_I20",
+    "store": 4,
+    "item": 20,
+    "model_mape": 4.6,
+    "baseline_mape": 17.04,
+    "improvement_pct": 73.0,
+    "winner": "model"
+  },
+  {
+    "series_id": "S4_I21",
+    "store": 4,
+    "item": 21,
+    "model_mape": 4.84,
+    "baseline_mape": 19.44,
+    "improvement_pct": 75.1,
+    "winner": "model"
+  },
+  {
+    "series_id": "S4_I22",
+    "store": 4,
+    "item": 22,
+    "model_mape": 4.17,
+    "baseline_mape": 18.9,
+    "improvement_pct": 77.94,
+    "winner": "model"
+  },
+  {
+    "series_id": "S4_I23",
+    "store": 4,
+    "item": 23,
+    "model_mape": 3.83,
+    "baseline_mape": 19.55,
+    "improvement_pct": 80.41,
+    "winner": "model"
+  },
+  {
+    "series_id": "S4_I24",
+    "store": 4,
+    "item": 24,
+    "model_mape": 4.36,
+    "baseline_mape": 21.07,
+    "improvement_pct": 79.31,
+    "winner": "model"
+  },
+  {
+    "series_id": "S4_I25",
+    "store": 4,
+    "item": 25,
+    "model_mape": 4.27,
+    "baseline_mape": 21.1,
+    "improvement_pct": 79.76,
+    "winner": "model"
+  },
+  {
+    "series_id": "S4_I26",
+    "store": 4,
+    "item": 26,
+    "model_mape": 3.83,
+    "baseline_mape": 21.65,
+    "improvement_pct": 82.31,
+    "winner": "model"
+  },
+  {
+    "series_id": "S4_I27",
+    "store": 4,
+    "item": 27,
+    "model_mape": 3.28,
+    "baseline_mape": 21.84,
+    "improvement_pct": 84.98,
+    "winner": "model"
+  },
+  {
+    "series_id": "S4_I28",
+    "store": 4,
+    "item": 28,
+    "model_mape": 3.47,
+    "baseline_mape": 22.41,
+    "improvement_pct": 84.52,
+    "winner": "model"
+  },
+  {
+    "series_id": "S4_I29",
+    "store": 4,
+    "item": 29,
+    "model_mape": 2.71,
+    "baseline_mape": 19.51,
+    "improvement_pct": 86.11,
+    "winner": "model"
+  },
+  {
+    "series_id": "S4_I3",
+    "store": 4,
+    "item": 3,
+    "model_mape": 5.51,
+    "baseline_mape": 13.83,
+    "improvement_pct": 60.16,
+    "winner": "model"
+  },
+  {
+    "series_id": "S4_I30",
+    "store": 4,
+    "item": 30,
+    "model_mape": 3.96,
+    "baseline_mape": 22.13,
+    "improvement_pct": 82.11,
+    "winner": "model"
+  },
+  {
+    "series_id": "S4_I31",
+    "store": 4,
+    "item": 31,
+    "model_mape": 2.54,
+    "baseline_mape": 21.86,
+    "improvement_pct": 88.38,
+    "winner": "model"
+  },
+  {
+    "series_id": "S4_I32",
+    "store": 4,
+    "item": 32,
+    "model_mape": 3.41,
+    "baseline_mape": 23.31,
+    "improvement_pct": 85.37,
+    "winner": "model"
+  },
+  {
+    "series_id": "S4_I33",
+    "store": 4,
+    "item": 33,
+    "model_mape": 2.87,
+    "baseline_mape": 19.75,
+    "improvement_pct": 85.47,
+    "winner": "model"
+  },
+  {
+    "series_id": "S4_I34",
+    "store": 4,
+    "item": 34,
+    "model_mape": 4.04,
+    "baseline_mape": 22.63,
+    "improvement_pct": 82.15,
+    "winner": "model"
+  },
+  {
+    "series_id": "S4_I35",
+    "store": 4,
+    "item": 35,
+    "model_mape": 3.41,
+    "baseline_mape": 20.77,
+    "improvement_pct": 83.58,
+    "winner": "model"
+  },
+  {
+    "series_id": "S4_I36",
+    "store": 4,
+    "item": 36,
+    "model_mape": 4.83,
+    "baseline_mape": 21.93,
+    "improvement_pct": 77.98,
+    "winner": "model"
+  },
+  {
+    "series_id": "S4_I37",
+    "store": 4,
+    "item": 37,
+    "model_mape": 3.81,
+    "baseline_mape": 18.94,
+    "improvement_pct": 79.88,
+    "winner": "model"
+  },
+  {
+    "series_id": "S4_I38",
+    "store": 4,
+    "item": 38,
+    "model_mape": 4.42,
+    "baseline_mape": 18.29,
+    "improvement_pct": 75.83,
+    "winner": "model"
+  },
+  {
+    "series_id": "S4_I39",
+    "store": 4,
+    "item": 39,
+    "model_mape": 4.78,
+    "baseline_mape": 18.36,
+    "improvement_pct": 73.97,
+    "winner": "model"
+  },
+  {
+    "series_id": "S4_I4",
+    "store": 4,
+    "item": 4,
+    "model_mape": 5.02,
+    "baseline_mape": 12.23,
+    "improvement_pct": 58.95,
+    "winner": "model"
+  },
+  {
+    "series_id": "S4_I40",
+    "store": 4,
+    "item": 40,
+    "model_mape": 4.19,
+    "baseline_mape": 17.02,
+    "improvement_pct": 75.38,
+    "winner": "model"
+  },
+  {
+    "series_id": "S4_I41",
+    "store": 4,
+    "item": 41,
+    "model_mape": 5.07,
+    "baseline_mape": 16.77,
+    "improvement_pct": 69.77,
+    "winner": "model"
+  },
+  {
+    "series_id": "S4_I42",
+    "store": 4,
+    "item": 42,
+    "model_mape": 4.08,
+    "baseline_mape": 14.02,
+    "improvement_pct": 70.9,
+    "winner": "model"
+  },
+  {
+    "series_id": "S4_I43",
+    "store": 4,
+    "item": 43,
+    "model_mape": 2.82,
+    "baseline_mape": 13.57,
+    "improvement_pct": 79.22,
+    "winner": "model"
+  },
+  {
+    "series_id": "S4_I44",
+    "store": 4,
+    "item": 44,
+    "model_mape": 3.64,
+    "baseline_mape": 12.83,
+    "improvement_pct": 71.63,
+    "winner": "model"
+  },
+  {
+    "series_id": "S4_I45",
+    "store": 4,
+    "item": 45,
+    "model_mape": 3.45,
+    "baseline_mape": 12.17,
+    "improvement_pct": 71.65,
+    "winner": "model"
+  },
+  {
+    "series_id": "S4_I46",
+    "store": 4,
+    "item": 46,
+    "model_mape": 3.12,
+    "baseline_mape": 11.63,
+    "improvement_pct": 73.17,
+    "winner": "model"
+  },
+  {
+    "series_id": "S4_I47",
+    "store": 4,
+    "item": 47,
+    "model_mape": 2.39,
+    "baseline_mape": 11.43,
+    "improvement_pct": 79.09,
+    "winner": "model"
+  },
+  {
+    "series_id": "S4_I48",
+    "store": 4,
+    "item": 48,
+    "model_mape": 2.47,
+    "baseline_mape": 12.03,
+    "improvement_pct": 79.47,
+    "winner": "model"
+  },
+  {
+    "series_id": "S4_I49",
+    "store": 4,
+    "item": 49,
+    "model_mape": 1.71,
+    "baseline_mape": 11.79,
+    "improvement_pct": 85.5,
+    "winner": "model"
+  },
+  {
+    "series_id": "S4_I5",
+    "store": 4,
+    "item": 5,
+    "model_mape": 6.45,
+    "baseline_mape": 14.55,
+    "improvement_pct": 55.67,
+    "winner": "model"
+  },
+  {
+    "series_id": "S4_I50",
+    "store": 4,
+    "item": 50,
+    "model_mape": 2.72,
+    "baseline_mape": 12.59,
+    "improvement_pct": 78.4,
+    "winner": "model"
+  },
+  {
+    "series_id": "S4_I6",
+    "store": 4,
+    "item": 6,
+    "model_mape": 5.95,
+    "baseline_mape": 13.14,
+    "improvement_pct": 54.72,
+    "winner": "model"
+  },
+  {
+    "series_id": "S4_I7",
+    "store": 4,
+    "item": 7,
+    "model_mape": 4.74,
+    "baseline_mape": 12.01,
+    "improvement_pct": 60.53,
+    "winner": "model"
+  },
+  {
+    "series_id": "S4_I8",
+    "store": 4,
+    "item": 8,
+    "model_mape": 5.79,
+    "baseline_mape": 12.45,
+    "improvement_pct": 53.49,
+    "winner": "model"
+  },
+  {
+    "series_id": "S4_I9",
+    "store": 4,
+    "item": 9,
+    "model_mape": 5.84,
+    "baseline_mape": 13.1,
+    "improvement_pct": 55.42,
+    "winner": "model"
+  },
+  {
+    "series_id": "S5_I1",
+    "store": 5,
+    "item": 1,
+    "model_mape": 5.04,
+    "baseline_mape": 13.03,
+    "improvement_pct": 61.32,
+    "winner": "model"
+  },
+  {
+    "series_id": "S5_I10",
+    "store": 5,
+    "item": 10,
+    "model_mape": 5.68,
+    "baseline_mape": 12.97,
+    "improvement_pct": 56.21,
+    "winner": "model"
+  },
+  {
+    "series_id": "S5_I11",
+    "store": 5,
+    "item": 11,
+    "model_mape": 4.59,
+    "baseline_mape": 12.29,
+    "improvement_pct": 62.65,
+    "winner": "model"
+  },
+  {
+    "series_id": "S5_I12",
+    "store": 5,
+    "item": 12,
+    "model_mape": 4.17,
+    "baseline_mape": 11.42,
+    "improvement_pct": 63.49,
+    "winner": "model"
+  },
+  {
+    "series_id": "S5_I13",
+    "store": 5,
+    "item": 13,
+    "model_mape": 4.65,
+    "baseline_mape": 13.74,
+    "improvement_pct": 66.16,
+    "winner": "model"
+  },
+  {
+    "series_id": "S5_I14",
+    "store": 5,
+    "item": 14,
+    "model_mape": 4.05,
+    "baseline_mape": 13.36,
+    "improvement_pct": 69.69,
+    "winner": "model"
+  },
+  {
+    "series_id": "S5_I15",
+    "store": 5,
+    "item": 15,
+    "model_mape": 4.16,
+    "baseline_mape": 14.22,
+    "improvement_pct": 70.75,
+    "winner": "model"
+  },
+  {
+    "series_id": "S5_I16",
+    "store": 5,
+    "item": 16,
+    "model_mape": 4.29,
+    "baseline_mape": 15.33,
+    "improvement_pct": 72.02,
+    "winner": "model"
+  },
+  {
+    "series_id": "S5_I17",
+    "store": 5,
+    "item": 17,
+    "model_mape": 4.39,
+    "baseline_mape": 15.43,
+    "improvement_pct": 71.55,
+    "winner": "model"
+  },
+  {
+    "series_id": "S5_I18",
+    "store": 5,
+    "item": 18,
+    "model_mape": 4.6,
+    "baseline_mape": 17.28,
+    "improvement_pct": 73.38,
+    "winner": "model"
+  },
+  {
+    "series_id": "S5_I19",
+    "store": 5,
+    "item": 19,
+    "model_mape": 3.91,
+    "baseline_mape": 17.57,
+    "improvement_pct": 77.75,
+    "winner": "model"
+  },
+  {
+    "series_id": "S5_I2",
+    "store": 5,
+    "item": 2,
+    "model_mape": 5.98,
+    "baseline_mape": 14.34,
+    "improvement_pct": 58.3,
+    "winner": "model"
+  },
+  {
+    "series_id": "S5_I20",
+    "store": 5,
+    "item": 20,
+    "model_mape": 3.83,
+    "baseline_mape": 17.36,
+    "improvement_pct": 77.94,
+    "winner": "model"
+  },
+  {
+    "series_id": "S5_I21",
+    "store": 5,
+    "item": 21,
+    "model_mape": 3.8,
+    "baseline_mape": 18.73,
+    "improvement_pct": 79.71,
+    "winner": "model"
+  },
+  {
+    "series_id": "S5_I22",
+    "store": 5,
+    "item": 22,
+    "model_mape": 4.54,
+    "baseline_mape": 19.9,
+    "improvement_pct": 77.19,
+    "winner": "model"
+  },
+  {
+    "series_id": "S5_I23",
+    "store": 5,
+    "item": 23,
+    "model_mape": 3.11,
+    "baseline_mape": 18.93,
+    "improvement_pct": 83.57,
+    "winner": "model"
+  },
+  {
+    "series_id": "S5_I24",
+    "store": 5,
+    "item": 24,
+    "model_mape": 3.72,
+    "baseline_mape": 19.34,
+    "improvement_pct": 80.77,
+    "winner": "model"
+  },
+  {
+    "series_id": "S5_I25",
+    "store": 5,
+    "item": 25,
+    "model_mape": 3.09,
+    "baseline_mape": 20.21,
+    "improvement_pct": 84.71,
+    "winner": "model"
+  },
+  {
+    "series_id": "S5_I26",
+    "store": 5,
+    "item": 26,
+    "model_mape": 3.32,
+    "baseline_mape": 20.54,
+    "improvement_pct": 83.84,
+    "winner": "model"
+  },
+  {
+    "series_id": "S5_I27",
+    "store": 5,
+    "item": 27,
+    "model_mape": 3.08,
+    "baseline_mape": 20.78,
+    "improvement_pct": 85.18,
+    "winner": "model"
+  },
+  {
+    "series_id": "S5_I28",
+    "store": 5,
+    "item": 28,
+    "model_mape": 2.9,
+    "baseline_mape": 20.89,
+    "improvement_pct": 86.12,
+    "winner": "model"
+  },
+  {
+    "series_id": "S5_I29",
+    "store": 5,
+    "item": 29,
+    "model_mape": 2.96,
+    "baseline_mape": 22.36,
+    "improvement_pct": 86.76,
+    "winner": "model"
+  },
+  {
+    "series_id": "S5_I3",
+    "store": 5,
+    "item": 3,
+    "model_mape": 4.24,
+    "baseline_mape": 11.29,
+    "improvement_pct": 62.44,
+    "winner": "model"
+  },
+  {
+    "series_id": "S5_I30",
+    "store": 5,
+    "item": 30,
+    "model_mape": 3.4,
+    "baseline_mape": 23.21,
+    "improvement_pct": 85.35,
+    "winner": "model"
+  },
+  {
+    "series_id": "S5_I31",
+    "store": 5,
+    "item": 31,
+    "model_mape": 3.83,
+    "baseline_mape": 21.62,
+    "improvement_pct": 82.28,
+    "winner": "model"
+  },
+  {
+    "series_id": "S5_I32",
+    "store": 5,
+    "item": 32,
+    "model_mape": 2.69,
+    "baseline_mape": 21.66,
+    "improvement_pct": 87.58,
+    "winner": "model"
+  },
+  {
+    "series_id": "S5_I33",
+    "store": 5,
+    "item": 33,
+    "model_mape": 4.45,
+    "baseline_mape": 22.18,
+    "improvement_pct": 79.94,
+    "winner": "model"
+  },
+  {
+    "series_id": "S5_I34",
+    "store": 5,
+    "item": 34,
+    "model_mape": 4.43,
+    "baseline_mape": 22.25,
+    "improvement_pct": 80.09,
+    "winner": "model"
+  },
+  {
+    "series_id": "S5_I35",
+    "store": 5,
+    "item": 35,
+    "model_mape": 3.73,
+    "baseline_mape": 21.44,
+    "improvement_pct": 82.6,
+    "winner": "model"
+  },
+  {
+    "series_id": "S5_I36",
+    "store": 5,
+    "item": 36,
+    "model_mape": 4.41,
+    "baseline_mape": 21.15,
+    "improvement_pct": 79.15,
+    "winner": "model"
+  },
+  {
+    "series_id": "S5_I37",
+    "store": 5,
+    "item": 37,
+    "model_mape": 4.54,
+    "baseline_mape": 19.58,
+    "improvement_pct": 76.81,
+    "winner": "model"
+  },
+  {
+    "series_id": "S5_I38",
+    "store": 5,
+    "item": 38,
+    "model_mape": 5.17,
+    "baseline_mape": 19.82,
+    "improvement_pct": 73.92,
+    "winner": "model"
+  },
+  {
+    "series_id": "S5_I39",
+    "store": 5,
+    "item": 39,
+    "model_mape": 3.65,
+    "baseline_mape": 18.14,
+    "improvement_pct": 79.88,
+    "winner": "model"
+  },
+  {
+    "series_id": "S5_I4",
+    "store": 5,
+    "item": 4,
+    "model_mape": 4.64,
+    "baseline_mape": 12.9,
+    "improvement_pct": 64.03,
+    "winner": "model"
+  },
+  {
+    "series_id": "S5_I40",
+    "store": 5,
+    "item": 40,
+    "model_mape": 4.1,
+    "baseline_mape": 16.93,
+    "improvement_pct": 75.78,
+    "winner": "model"
+  },
+  {
+    "series_id": "S5_I41",
+    "store": 5,
+    "item": 41,
+    "model_mape": 4.05,
+    "baseline_mape": 17.08,
+    "improvement_pct": 76.29,
+    "winner": "model"
+  },
+  {
+    "series_id": "S5_I42",
+    "store": 5,
+    "item": 42,
+    "model_mape": 3.57,
+    "baseline_mape": 14.73,
+    "improvement_pct": 75.76,
+    "winner": "model"
+  },
+  {
+    "series_id": "S5_I43",
+    "store": 5,
+    "item": 43,
+    "model_mape": 3.42,
+    "baseline_mape": 14.81,
+    "improvement_pct": 76.91,
+    "winner": "model"
+  },
+  {
+    "series_id": "S5_I44",
+    "store": 5,
+    "item": 44,
+    "model_mape": 4.34,
+    "baseline_mape": 14.29,
+    "improvement_pct": 69.63,
+    "winner": "model"
+  },
+  {
+    "series_id": "S5_I45",
+    "store": 5,
+    "item": 45,
+    "model_mape": 3.25,
+    "baseline_mape": 13.0,
+    "improvement_pct": 75.0,
+    "winner": "model"
+  },
+  {
+    "series_id": "S5_I46",
+    "store": 5,
+    "item": 46,
+    "model_mape": 2.82,
+    "baseline_mape": 12.88,
+    "improvement_pct": 78.11,
+    "winner": "model"
+  },
+  {
+    "series_id": "S5_I47",
+    "store": 5,
+    "item": 47,
+    "model_mape": 2.08,
+    "baseline_mape": 11.59,
+    "improvement_pct": 82.05,
+    "winner": "model"
+  },
+  {
+    "series_id": "S5_I48",
+    "store": 5,
+    "item": 48,
+    "model_mape": 2.33,
+    "baseline_mape": 11.77,
+    "improvement_pct": 80.2,
+    "winner": "model"
+  },
+  {
+    "series_id": "S5_I49",
+    "store": 5,
+    "item": 49,
+    "model_mape": 2.56,
+    "baseline_mape": 11.73,
+    "improvement_pct": 78.18,
+    "winner": "model"
+  },
+  {
+    "series_id": "S5_I5",
+    "store": 5,
+    "item": 5,
+    "model_mape": 5.83,
+    "baseline_mape": 14.1,
+    "improvement_pct": 58.65,
+    "winner": "model"
+  },
+  {
+    "series_id": "S5_I50",
+    "store": 5,
+    "item": 50,
+    "model_mape": 2.15,
+    "baseline_mape": 11.2,
+    "improvement_pct": 80.8,
+    "winner": "model"
+  },
+  {
+    "series_id": "S5_I6",
+    "store": 5,
+    "item": 6,
+    "model_mape": 5.25,
+    "baseline_mape": 13.35,
+    "improvement_pct": 60.67,
+    "winner": "model"
+  },
+  {
+    "series_id": "S5_I7",
+    "store": 5,
+    "item": 7,
+    "model_mape": 5.39,
+    "baseline_mape": 13.31,
+    "improvement_pct": 59.5,
+    "winner": "model"
+  },
+  {
+    "series_id": "S5_I8",
+    "store": 5,
+    "item": 8,
+    "model_mape": 4.66,
+    "baseline_mape": 11.38,
+    "improvement_pct": 59.05,
+    "winner": "model"
+  },
+  {
+    "series_id": "S5_I9",
+    "store": 5,
+    "item": 9,
+    "model_mape": 5.22,
+    "baseline_mape": 12.37,
+    "improvement_pct": 57.8,
+    "winner": "model"
+  }
+]
